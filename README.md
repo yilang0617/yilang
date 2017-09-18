@@ -1,2 +1,1 @@
-# yilang
-just
+Hello world yilang
